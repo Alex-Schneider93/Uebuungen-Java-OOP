@@ -11,9 +11,9 @@ public class Aufgabe_7_Entschlüsseln {
 
         System.out.print("Passwort eingeben: ");
         passwort = scanner.nextLine();
-        int anzahl = passwort.length();
+        int anahl = passwort.length();
 
-        while(index < anzahl) {
+        while(index < anahl) {
             zeichen = passwort.charAt(index++);
 
             if (index %2 ==0) {

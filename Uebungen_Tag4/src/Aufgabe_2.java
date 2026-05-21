@@ -53,5 +53,4 @@ public class Aufgabe_2
         System.out.println("Endpreis: " + endpreis);
     }
 
-
 }

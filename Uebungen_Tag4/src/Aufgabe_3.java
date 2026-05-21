@@ -41,5 +41,4 @@ public class Aufgabe_3
         System.out.println("Durchschnitt: " + durchschnitt);
     }
 
-
 }

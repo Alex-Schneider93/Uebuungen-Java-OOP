@@ -11,9 +11,9 @@ public class Aufgabe_6_Verschluesselung {
 
         System.out.print("Passwort eingeben: ");
         passwort = scanner.nextLine();
-        int anahl = passwort.length();
+        int anzahl = passwort.length();
 
-        while(index < anahl) {
+        while(index < anzahl) {
             zeichen = passwort.charAt(index++);
 
             if (index %2 ==0) {

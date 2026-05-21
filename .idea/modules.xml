@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Extra_Aufgaben/Extra_Aufgaben.iml" filepath="$PROJECT_DIR$/Extra_Aufgaben/Extra_Aufgaben.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LF-ZQ16 A Objektorientierte Programierung mit Java.iml" filepath="$PROJECT_DIR$/.idea/LF-ZQ16 A Objektorientierte Programierung mit Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projekt_Euler/Projekt_Euler.iml" filepath="$PROJECT_DIR$/Projekt_Euler/Projekt_Euler.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag1/Uebungen_Tag1.iml" filepath="$PROJECT_DIR$/Uebungen_Tag1/Uebungen_Tag1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag2/Uebungen_Tag2.iml" filepath="$PROJECT_DIR$/Uebungen_Tag2/Uebungen_Tag2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag3/Uebungen_Tag3.iml" filepath="$PROJECT_DIR$/Uebungen_Tag3/Uebungen_Tag3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag4/Uebungen_Tag4.iml" filepath="$PROJECT_DIR$/Uebungen_Tag4/Uebungen_Tag4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen/Uebungen_Tag_1.iml" filepath="$PROJECT_DIR$/Uebungen/Uebungen_Tag_1.iml" />
     </modules>
   </component>

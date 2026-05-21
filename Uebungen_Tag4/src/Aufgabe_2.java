@@ -1,21 +1,25 @@
 /*
-Erweitere das Programm.
+Wenn die Gesamtsumme über 100 € liegt:
 
-Alle Artikel mit einem Gesamtpreis über 20 € sollen gezählt werden.
-Die Anzahl wird zum Schluss ebenfalls ausgegeben.
+10 % Rabatt berechnen
+
+Ausgabe zusätzlich:
+- Rabatt in EUR
+- Endpreis
+
  */
 import java.util.Scanner;
 
-public class Aufgabe_1
+public class Aufgabe_2
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Wie viele Artikel?");
         int artikelAnzahl = sc.nextInt();
-        int zaehler_20 = 0;
-        int zaehler = 0;
 
+        int zaehler = 0;
+        double rabat = 0, endpreis = 0;
 
         double gesamtsumme = 0;
         double durchschnitt = 0;
@@ -33,18 +37,19 @@ public class Aufgabe_1
             System.out.println("Artikelpreis: " + artikelSumme);
 
             gesamtsumme = gesamtsumme + artikelSumme;
-
-            if (artikelSumme > 20) {
-                zaehler_20++;
-            }
             zaehler++;
         }
 
+        if (gesamtsumme > 100){
+            rabat = gesamtsumme * 0.10;
+        }
+        endpreis  = gesamtsumme - rabat;
         durchschnitt = gesamtsumme / artikelAnzahl;
 
-        System.out.println("Anzahl " +
-                "Artikeln über 20: " + zaehler_20);
+
         System.out.println("Gesamtsumme: " + gesamtsumme);
         System.out.println("Durchschnitt: " + durchschnitt);
+        System.out.println("Rabat in EUR: " + rabat);
+        System.out.println("Endpreis: " + endpreis);
     }
 }

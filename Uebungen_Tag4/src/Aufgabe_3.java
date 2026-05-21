@@ -1,49 +1,42 @@
 /*
-Erweitere das Programm.
+erweitere das Programm:
 
-Alle Artikel mit einem Gesamtpreis über 20 € sollen gezählt werden.
-Die Anzahl wird zum Schluss ebenfalls ausgegeben.
+Das Programm soll ebenfalls den höchsten Artikelpreis ausgeben (Einzelpreis)
  */
+
 import java.util.Scanner;
 
-public class Aufgabe_1
+public class Aufgabe_3
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Wie viele Artikel?");
         int artikelAnzahl = sc.nextInt();
-        int zaehler_20 = 0;
-        int zaehler = 0;
 
+        int zaehler = 0;
 
         double gesamtsumme = 0;
         double durchschnitt = 0;
+        double hoechsterPreis = 0;
 
         while (zaehler < artikelAnzahl) {
-
             System.out.println("Anzahl:");
             int anzahl = sc.nextInt();
-
             System.out.println("Einzelpreis:");
             double preis = sc.nextDouble();
-
-            double artikelSumme = anzahl * preis;
-
-            System.out.println("Artikelpreis: " + artikelSumme);
-
-            gesamtsumme = gesamtsumme + artikelSumme;
-
-            if (artikelSumme > 20) {
-                zaehler_20++;
+            if (preis > hoechsterPreis) {
+                hoechsterPreis = preis;
             }
+            double artikelSumme = anzahl * preis;
+            System.out.println("Artikelpreis: " + artikelSumme);
+            gesamtsumme = gesamtsumme + artikelSumme;
             zaehler++;
         }
 
         durchschnitt = gesamtsumme / artikelAnzahl;
 
-        System.out.println("Anzahl " +
-                "Artikeln über 20: " + zaehler_20);
+        System.out.println("Höchster Einzelpreis: "+ hoechsterPreis);
         System.out.println("Gesamtsumme: " + gesamtsumme);
         System.out.println("Durchschnitt: " + durchschnitt);
     }

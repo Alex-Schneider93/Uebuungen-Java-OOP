@@ -52,4 +52,6 @@ public class Aufgabe_2
         System.out.println("Rabat in EUR: " + rabat);
         System.out.println("Endpreis: " + endpreis);
     }
+
+
 }

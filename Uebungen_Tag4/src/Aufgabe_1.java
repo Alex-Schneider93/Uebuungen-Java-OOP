@@ -46,5 +46,6 @@ public class Aufgabe_1
                 "Artikeln über 20: " + zaehler_20);
         System.out.println("Gesamtsumme: " + gesamtsumme);
         System.out.println("Durchschnitt: " + durchschnitt);
+
     }
 }

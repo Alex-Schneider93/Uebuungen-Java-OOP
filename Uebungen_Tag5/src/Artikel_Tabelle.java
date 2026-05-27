@@ -73,7 +73,5 @@ public class Artikel_Tabelle {
         }
 
         System.out.printf("Grösste Artikeleinzelpreis-> %s: %.2f € ",artikel, maxPreis );
-
-
     }
 }

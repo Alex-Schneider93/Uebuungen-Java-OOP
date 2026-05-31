@@ -12,9 +12,9 @@ public class Gerade_Fibonaci_Zahlen {
                     if (a % 2 == 0) {
                         summe += a;
                     }
-                    int nechste = a + b;
+                    int naechste = a + b;
                     a = b;
-                    b = nechste;
+                    b = naechste;
                 }
                 System.out.println(summe);
     }

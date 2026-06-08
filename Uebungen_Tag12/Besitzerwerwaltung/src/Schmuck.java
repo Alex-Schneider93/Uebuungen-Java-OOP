@@ -27,6 +27,7 @@ public class Schmuck extends Besitz{
     @Override
     public String toString() {
         return "Typ: Schmuck" + "\n" +
+                "Nummer: " + getBuchstabe() +"\n" +
                 "Bezeichnung: " + getBezeichnung() + "\n" +
                 "Material: " + material + "\n" +
                 "Preis per gramm: " + getMaterial().getWert()+ "\n" +

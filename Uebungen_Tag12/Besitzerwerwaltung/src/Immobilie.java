@@ -28,6 +28,7 @@ public class Immobilie extends Besitz{
     @Override
     public String toString() {
         return "Typ: Immobilien" + "\n" +
+                "Nummer: " + getBuchstabe() + "\n" +
                 "Bezeichnung: " + getBezeichnung() + "\n" +
                 "Preis per qm: " + qmPreis + "\n" +
                 "quadratmeter: " + quadratmeter + "\n" +

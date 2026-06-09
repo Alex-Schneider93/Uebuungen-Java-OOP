@@ -8,8 +8,11 @@
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag7/Aufgabe_1/Aufgabe_1.iml" filepath="$PROJECT_DIR$/Uebungen_Tag7/Aufgabe_1/Aufgabe_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag7/Aufgabe_2/Aufgabe_2.iml" filepath="$PROJECT_DIR$/Uebungen_Tag7/Aufgabe_2/Aufgabe_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag7/Aufgabe_3/Aufgabe_3.iml" filepath="$PROJECT_DIR$/Uebungen_Tag7/Aufgabe_3/Aufgabe_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag15/Aufgabe_Files_Wiederhollung/Aufgabe_Files_Wiederhollung.iml" filepath="$PROJECT_DIR$/Uebungen_Tag15/Aufgabe_Files_Wiederhollung/Aufgabe_Files_Wiederhollung.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag12/Besitzerwerwaltung/Besitzerwerwaltung.iml" filepath="$PROJECT_DIR$/Uebungen_Tag12/Besitzerwerwaltung/Besitzerwerwaltung.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag8/Class_vs_record/Class_vs_record.iml" filepath="$PROJECT_DIR$/Uebungen_Tag8/Class_vs_record/Class_vs_record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag15/DateiBlockweiseLesen/DateiBlockweiseLesen.iml" filepath="$PROJECT_DIR$/Uebungen_Tag15/DateiBlockweiseLesen/DateiBlockweiseLesen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag15/DateiMitLeerzeilenLesen/DateiMitLeerzeilenLesen.iml" filepath="$PROJECT_DIR$/Uebungen_Tag15/DateiMitLeerzeilenLesen/DateiMitLeerzeilenLesen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Extra_Aufgaben/Extra_Aufgaben.iml" filepath="$PROJECT_DIR$/Extra_Aufgaben/Extra_Aufgaben.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag13/Fahrzeug_Uebung/Fahrzeug_Uebung.iml" filepath="$PROJECT_DIR$/Uebungen_Tag13/Fahrzeug_Uebung/Fahrzeug_Uebung.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag10/FitnessTracker/FitnessTracker.iml" filepath="$PROJECT_DIR$/Uebungen_Tag10/FitnessTracker/FitnessTracker.iml" />
@@ -24,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag11/UebungArtikel/UebungArtikel.iml" filepath="$PROJECT_DIR$/Uebungen_Tag11/UebungArtikel/UebungArtikel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag11/UebungBenutzerkonto/UebungBenutzerkonto.iml" filepath="$PROJECT_DIR$/Uebungen_Tag11/UebungBenutzerkonto/UebungBenutzerkonto.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag11/UebungBuch/UebungBuch.iml" filepath="$PROJECT_DIR$/Uebungen_Tag11/UebungBuch/UebungBuch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag15/UebungDatei/UebungDatei.iml" filepath="$PROJECT_DIR$/Uebungen_Tag15/UebungDatei/UebungDatei.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag14/UebungEinkauf/UebungEinkauf.iml" filepath="$PROJECT_DIR$/Uebungen_Tag14/UebungEinkauf/UebungEinkauf.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag14/UebungPfadDatei/UebungPfadDatei.iml" filepath="$PROJECT_DIR$/Uebungen_Tag14/UebungPfadDatei/UebungPfadDatei.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag11/Uebung_Konto/Uebung_Konto.iml" filepath="$PROJECT_DIR$/Uebungen_Tag11/Uebung_Konto/Uebung_Konto.iml" />
@@ -33,6 +37,7 @@
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag12/Uebungen_Tag12.iml" filepath="$PROJECT_DIR$/Uebungen_Tag12/Uebungen_Tag12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag13/Uebungen_Tag13.iml" filepath="$PROJECT_DIR$/Uebungen_Tag13/Uebungen_Tag13.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag14/Uebungen_Tag14.iml" filepath="$PROJECT_DIR$/Uebungen_Tag14/Uebungen_Tag14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag15/Uebungen_Tag15.iml" filepath="$PROJECT_DIR$/Uebungen_Tag15/Uebungen_Tag15.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag2/Uebungen_Tag2.iml" filepath="$PROJECT_DIR$/Uebungen_Tag2/Uebungen_Tag2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag3/Uebungen_Tag3.iml" filepath="$PROJECT_DIR$/Uebungen_Tag3/Uebungen_Tag3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag4/Uebungen_Tag4.iml" filepath="$PROJECT_DIR$/Uebungen_Tag4/Uebungen_Tag4.iml" />

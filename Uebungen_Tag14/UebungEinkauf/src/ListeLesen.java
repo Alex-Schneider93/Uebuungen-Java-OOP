@@ -20,7 +20,7 @@ public class ListeLesen
         System.out.print("Datei(.csv): ");
         String dateiName = sc.nextLine();
 
-        Path datei = Paths.get("C:", "java", ordner, dateiName+ ".csv");
+        Path datei = Paths.get("C:", ordner, dateiName+ ".csv");
 
         NumberFormat format = NumberFormat.getInstance(Locale.GERMANY);
         try {

@@ -34,7 +34,6 @@ public class listeErstellen {
 
         }
 
-
         System.out.println("Gib Artikel ein (oder 'exit' zum Beenden).");
 
         while (true) {

@@ -8,11 +8,8 @@ public class BestellungenAuslesen {
 
         Scanner scanner = new Scanner(System.in);
 
-
             System.out.print("Bitte Bestellnummer eingeben 'x' zum beenden: ");
             String bestellNr = scanner.nextLine();
-
-
 
             Path pfad = Paths.get("C:", "Java", "bestellung_" + bestellNr + ".csv");
 

@@ -14,7 +14,8 @@ public class BestellungenAuslesen {
             Path pfad = Paths.get("C:", "Java", "bestellung_" + bestellNr + ".csv");
 
             double gesamtSumme = 0;
-
+            String name = "";
+            System.out.println("Bestellung\n");
             try (BufferedReader reader = new BufferedReader(new FileReader(pfad.toString()))) {
 
                 String zeile;
@@ -24,7 +25,7 @@ public class BestellungenAuslesen {
                     String[] split = zeile.split(";");
 
                     if (split.length == 5 && !split[0].equals("Summe")) {
-                        String name = split[0];
+                         name = split[0];
                         String artikel = split[1];
                         double preis = Double.parseDouble(split[2]);
                         double anzahl = Double.parseDouble(split[3]);
@@ -33,15 +34,17 @@ public class BestellungenAuslesen {
                         gesamtSumme += summeArtikel;
 
                         System.out.println(
-                                "Name: " + name +
-                                        ", Artikel: " + artikel +
-                                        ", Anzahl: " + preis +
-                                        ", Einzelpreis: " + anzahl +
-                                        ", Summe Einzelartikel: " + summeArtikel
+
+                                        "Artikel: " + artikel + "\n" +
+                                        "Anzahl: " + preis + "\n" +
+                                        "Einzelpreis: " + anzahl + "\n" +
+                                        "Summe Einzelartikel: " + summeArtikel + "\n"+
+                                "----------------------------------------------------------"
                         );
                     }
-                }
 
+                }
+                System.out.println("Kunde Name: " + name );
                 System.out.printf("Summe total: %.2f", gesamtSumme);
 
             } catch (Exception e) {

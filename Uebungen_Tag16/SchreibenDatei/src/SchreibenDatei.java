@@ -29,7 +29,6 @@ public class SchreibenDatei {
             pw2.println("Hallo Welt");
             pw2.close();
             out.close();
-
         }catch(Exception e) {
             System.out.println(e.getMessage());
         }

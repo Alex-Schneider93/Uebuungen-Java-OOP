@@ -22,7 +22,6 @@ public class KundenlisteLesen {
                 summeAlter += Integer.parseInt(zeileSplit[3]);
                 durchschnittsalter = summeAlter / eintraege;
                 System.out.println(zeile);
-
             }
         } catch (Exception e) {
             System.out.println(e.getMessage());

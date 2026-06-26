@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag8/Aufgabe1/Aufgabe1.iml" filepath="$PROJECT_DIR$/Uebungen_Tag8/Aufgabe1/Aufgabe1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag23/Aufgabe1RechnundDAO/Aufgabe1RechnundDAO.iml" filepath="$PROJECT_DIR$/Uebungen_Tag23/Aufgabe1RechnundDAO/Aufgabe1RechnundDAO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag8/Aufgabe2/Aufgabe2.iml" filepath="$PROJECT_DIR$/Uebungen_Tag8/Aufgabe2/Aufgabe2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag9/AufgabeEins/AufgabeEins.iml" filepath="$PROJECT_DIR$/Uebungen_Tag9/AufgabeEins/AufgabeEins.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag7/Aufgabe_1/Aufgabe_1.iml" filepath="$PROJECT_DIR$/Uebungen_Tag7/Aufgabe_1/Aufgabe_1.iml" />
@@ -26,12 +27,15 @@
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag9/Lektion/Lektion.iml" filepath="$PROJECT_DIR$/Uebungen_Tag9/Lektion/Lektion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag10/Mitarbeiter_Uebung/Mitarbeiter_Uebung.iml" filepath="$PROJECT_DIR$/Uebungen_Tag10/Mitarbeiter_Uebung/Mitarbeiter_Uebung.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag12/NetzwerkGeraete/NetzwerkGeraete.iml" filepath="$PROJECT_DIR$/Uebungen_Tag12/NetzwerkGeraete/NetzwerkGeraete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag22/OpenClosePrinciple/OpenClosePrinciple.iml" filepath="$PROJECT_DIR$/Uebungen_Tag22/OpenClosePrinciple/OpenClosePrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag20/PizzaRestaurant/PizzaRestaurant.iml" filepath="$PROJECT_DIR$/Uebungen_Tag20/PizzaRestaurant/PizzaRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Projekt_Euler/Projekt_Euler.iml" filepath="$PROJECT_DIR$/Projekt_Euler/Projekt_Euler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag22/RabattsystemOnline-Shop/RabattsystemOnline-Shop.iml" filepath="$PROJECT_DIR$/Uebungen_Tag22/RabattsystemOnline-Shop/RabattsystemOnline-Shop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Record/Record.iml" filepath="$PROJECT_DIR$/Record/Record.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag16/Schreiben in eine CSV Datei mit PrintWriter/Schreiben in eine CSV Datei mit PrintWriter.iml" filepath="$PROJECT_DIR$/Uebungen_Tag16/Schreiben in eine CSV Datei mit PrintWriter/Schreiben in eine CSV Datei mit PrintWriter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag16/SchreibenDatei/SchreibenDatei.iml" filepath="$PROJECT_DIR$/Uebungen_Tag16/SchreibenDatei/SchreibenDatei.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag19/Spielleistungs Tracker/Spielleistungs Tracker.iml" filepath="$PROJECT_DIR$/Uebungen_Tag19/Spielleistungs Tracker/Spielleistungs Tracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag22/TarifrechnerOptimieren/TarifrechnerOptimieren.iml" filepath="$PROJECT_DIR$/Uebungen_Tag22/TarifrechnerOptimieren/TarifrechnerOptimieren.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag11/UebungArtikel/UebungArtikel.iml" filepath="$PROJECT_DIR$/Uebungen_Tag11/UebungArtikel/UebungArtikel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag21/UebungArtikell/UebungArtikell.iml" filepath="$PROJECT_DIR$/Uebungen_Tag21/UebungArtikell/UebungArtikell.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag11/UebungBenutzerkonto/UebungBenutzerkonto.iml" filepath="$PROJECT_DIR$/Uebungen_Tag11/UebungBenutzerkonto/UebungBenutzerkonto.iml" />
@@ -58,6 +62,10 @@
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag20/Uebungen_Tag20.iml" filepath="$PROJECT_DIR$/Uebungen_Tag20/Uebungen_Tag20.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag21/Uebungen_Tag21.iml" filepath="$PROJECT_DIR$/Uebungen_Tag21/Uebungen_Tag21.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag22/Uebungen_Tag22.iml" filepath="$PROJECT_DIR$/Uebungen_Tag22/Uebungen_Tag22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag23/Uebungen_Tag23.iml" filepath="$PROJECT_DIR$/Uebungen_Tag23/Uebungen_Tag23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag24/Uebungen_Tag24.iml" filepath="$PROJECT_DIR$/Uebungen_Tag24/Uebungen_Tag24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag25/Uebungen_Tag25.iml" filepath="$PROJECT_DIR$/Uebungen_Tag25/Uebungen_Tag25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag26/Uebungen_Tag26Buchhaltung.iml" filepath="$PROJECT_DIR$/Uebungen_Tag26/Uebungen_Tag26Buchhaltung.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag3/Uebungen_Tag3.iml" filepath="$PROJECT_DIR$/Uebungen_Tag3/Uebungen_Tag3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag4/Uebungen_Tag4.iml" filepath="$PROJECT_DIR$/Uebungen_Tag4/Uebungen_Tag4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag5/Uebungen_Tag5.iml" filepath="$PROJECT_DIR$/Uebungen_Tag5/Uebungen_Tag5.iml" />
@@ -66,6 +74,8 @@
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag8/Aufgabe1/src/Uebungen_Tag8.iml" filepath="$PROJECT_DIR$/Uebungen_Tag8/Aufgabe1/src/Uebungen_Tag8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag9/Uebungen_Tag9.iml" filepath="$PROJECT_DIR$/Uebungen_Tag9/Uebungen_Tag9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uebungen/Uebungen_Tag_1.iml" filepath="$PROJECT_DIR$/Uebungen/Uebungen_Tag_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag22/VerkaufsstrategienOnlineShop/VerkaufsstrategienOnlineShop.iml" filepath="$PROJECT_DIR$/Uebungen_Tag22/VerkaufsstrategienOnlineShop/VerkaufsstrategienOnlineShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungen_Tag22/uebungTest/uebungTest.iml" filepath="$PROJECT_DIR$/Uebungen_Tag22/uebungTest/uebungTest.iml" />
     </modules>
   </component>
 </project>
